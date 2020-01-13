@@ -178,7 +178,6 @@ uni.requestPayment({
             <button class="ipaPayBtn" @click="requestPayment" :loading="loading" :disabled="disabled">确认支付</button>
         </view>
     </view>
-    </view>
 </template>
 ```
 
